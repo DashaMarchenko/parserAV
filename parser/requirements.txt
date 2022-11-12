@@ -1,0 +1,7 @@
+PyQt5~=5.15.7
+requests~=2.28.1
+beautifulsoup4~=4.11.1
+asyncio~=3.4.3
+aiohttp~=3.8.3
+certifi~=2022.9.24
+pandas~=1.5.1
